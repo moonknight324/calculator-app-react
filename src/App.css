@@ -1,0 +1,64 @@
+body{
+  background-color: rgb(34, 34, 34);
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+}
+
+.ac{
+  width: 6rem;
+  height: 3rem;
+  border-radius: 15px;
+  border: 1px solid gray;
+  background-color: rgb(145, 145, 145);
+  color: black;
+  font-weight: bold;
+  margin: 1px;
+}
+
+button:hover{
+  background-color: lavender;
+  color: black;
+}
+.del{
+  width: 3rem;
+  height: 3rem;
+  border-radius: 15px;
+  border: 1px solid gray;
+  background-color: rgb(145, 145, 145);
+  color: black;
+  font-weight: bold ;
+  margin: 1px;
+}
+
+.btn{
+  width: 3rem;
+  height: 3rem;
+  border-radius: 15px;
+  border: 1px solid gray;
+  background-color: black;
+  color: white;
+  margin: 1px;
+  font-size: 15px;
+}
+
+.equal{
+  width: 6rem;
+  height: 3rem;
+  border-radius: 15px;
+  border: 1px solid gray;
+  background-color: rgb(145, 145, 145);
+  color: white;
+  font-weight: bold;
+  margin: 1px;
+}
+
+.input-box{
+  width: 11.8rem;
+  height: 3rem;
+  border-radius: 15px;
+  border: 1px solid gray;
+  background-color: black;
+  color: white;
+  margin: 1px;
+}
